@@ -2,6 +2,9 @@
 
 A Next.js web application for creating and customizing audio remixes with speed and bitcrush effects.
 
+<img width="587" alt="Screenshot 2024-10-27 at 8 16 35 PM" src="https://github.com/user-attachments/assets/536b514e-0726-4c51-8765-57edc3a12d98">
+
+
 ## Overview
 
 hex+surge studio is a web-based audio manipulation tool that allows users to:

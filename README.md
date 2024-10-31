@@ -1,3 +1,7 @@
+***WIP***
+
+![image](https://github.com/user-attachments/assets/07c4cae7-aebf-4bb8-8df1-5c02e0cae87b)
+
 # hex+surge studio
 
 A Next.js web application for creating and customizing audio remixes with speed and bitcrush effects.
